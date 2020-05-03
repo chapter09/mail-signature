@@ -8,4 +8,4 @@ Dr. Hao Wang, Assistant Professor
 
 [IntelliSys Lab](https://www.haow.ca) | [CSE](https://www.lsu.edu/eng/cse/) | LSU
 
-<img href="http://www.haow.ca/mail-signature/imgs/logo-dark.png" />
+<img src="http://www.haow.ca/mail-signature/imgs/logo-dark.png" />
